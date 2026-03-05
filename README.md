@@ -1,0 +1,2 @@
+# Rimtu
+A chat ai
